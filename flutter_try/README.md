@@ -1,5 +1,10 @@
 # flutter_try
 
+Output ScreenShot :
+
+<img width="621" height="970" alt="image" src="https://github.com/user-attachments/assets/05144f2e-70f8-4730-9fb8-94cc867c828f" />
+
+
 A new Flutter project.
 
 ## Getting Started
